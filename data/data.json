@@ -1,0 +1,36 @@
+{
+    "productos":[
+        {
+          "nombre":"Tipo de Prenda: Camisa Oxford Dotacion Empresarial Elegante Manga Larga",
+          "precio":"",
+          "imagen1":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1649449705/workshop-trabajo-en-clase/camisa-empresarial-men-ant_qnlb5g.webp",
+          "imagen2":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1649449698/workshop-trabajo-en-clase/camisa-empresarial-men-doblada_dt145r.webp",
+          "descripcion":"camisa para caballero con material de algodón y poliéster"
+
+        },
+        {
+            "nombre":"Tipo de Prenda: Camisa Oxford Dotacion Empresarial Elegante Manga Larga",
+            "precio":"",
+            "imagen1":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1649449692/workshop-trabajo-en-clase/camisa-empresarial-women-ant_uul2vk.webp",
+            "imagen2":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1649449690/workshop-trabajo-en-clase/camisa-empresarial-women-post_ugsigp.webp",
+            "descripcion":"Camisa para dama con material de algodón y poliéster"
+            
+          },
+          {
+            "nombre":"Camiseta para Hombre tipo verano",
+            "precio":"50.000",
+            "imagen1":"https://www.mattelsa.net/hombre/camiseta-oversize-azul-poster-62996",
+            "imagen2":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1649450669/workshop-trabajo-en-clase/camiseta-oversize-negro-ilustracion-post_lhk916.jpg",
+            "descripcion":"perfecta para cualquier ocacion y un hermoso color"
+            
+          },
+          {
+            "nombre":"Vestido Corto para dama",
+            "precio":"$72.000",
+            "imagen1":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1649450536/workshop-trabajo-en-clase/vestido-corto-manga-larga-men-post_jxanbz.jpg",
+            "imagen2":"https://res.cloudinary.com/dxhgejzwc/image/upload/v1649450530/workshop-trabajo-en-clase/vestido-corto-manga-larga-women-ant_uxjdxb.jpg",
+            "descripcion":"Perfecto para los dias calurosos"
+            
+          }
+    ]
+}
